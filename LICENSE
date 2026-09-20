@@ -187,6 +187,7 @@
       identification within third-party archives.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
    Copyright [yyyy] [name of copyright owner]
 =======
 <<<<<<< HEAD
@@ -199,6 +200,9 @@
    Copyright [yyyy] [name of copyright owner]
 >>>>>>> 3011da7ef14b6d254f4aa0c9138389583d79fc8f
 >>>>>>> 4c4938d (Initial Commit)
+=======
+   Copyright [yyyy] [name of copyright owner]
+>>>>>>> 19c6960648ee17cc5defb8ba4c4da6a3589c77e2
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
