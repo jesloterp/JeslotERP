@@ -1,0 +1,10 @@
+# Roadmaps
+
+| Document | Topic |
+|---|---|
+| [PLATFORM_ROADMAP.md](PLATFORM_ROADMAP.md) | Kernel p01–p33 |
+| [BUSINESS_ROADMAP.md](BUSINESS_ROADMAP.md) | b01–b17 |
+| [OPEN_SOURCE_ROADMAP.md](OPEN_SOURCE_ROADMAP.md) | Public release readiness |
+| [FUTURE_CAPABILITIES.md](FUTURE_CAPABILITIES.md) | Intentionally later |
+
+Companion: [../BUSINESS_PLATFORM/BUSINESS_PLATFORM_ROADMAP.md](../BUSINESS_PLATFORM/BUSINESS_PLATFORM_ROADMAP.md)
